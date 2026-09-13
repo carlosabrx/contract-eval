@@ -1,0 +1,201 @@
+doc_id,prompt_version,model,governing_law,notice_period_days,change_of_control,parse_status,latency_s,input_tokens,output_tokens,input_chars,orig_chars,n_windows,raw_response,correct_governing_law,norm_pred_governing_law,norm_gold_governing_law,correct_notice_period_days,norm_pred_notice_period_days,norm_gold_notice_period_days,correct_change_of_control,norm_pred_change_of_control,norm_gold_change_of_control
+UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT,v1,lite,Delaware,180,,ok,0.79,1803,39,7687,16823,3,"{
+  ""governing_law"": ""Delaware"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": null
+}",True,delaware,delaware,False,180,30,False,,False
+XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement,v1,lite,New York,30,False,ok,0.81,3911,38,17307,52106,8,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}",True,new york,new york,True,30,30,False,False,True
+EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement,v1,lite,California,60,True,ok,0.7,2973,37,13673,64192,6,"{
+  ""governing_law"": ""California"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}",True,california,california,True,60,60,True,True,True
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,v1,lite,,60,,ok,0.61,629,36,2329,18138,1,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 60,
+  ""change_of_control"": null
+}",False,,california,True,60,60,False,,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement,v1,lite,New York,90,False,ok,0.81,3945,38,17140,46255,7,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": false
+}",True,new york,new york,True,90,90,True,False,False
+UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2,v1,lite,,30,True,ok,0.71,2399,36,8771,26115,3,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 30,
+  ""change_of_control"": true
+}",False,,virginia,True,30,30,False,True,False
+HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement,v1,lite,New York,90,False,ok,56.95,1677,38,7472,22288,1,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": false
+}",True,new york,new york,True,90,90,True,False,False
+VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement,v1,lite,Alabama,120,True,ok,0.7,2586,38,11259,45072,4,"{
+  ""governing_law"": ""Alabama"",
+  ""notice_period_days"": 120,
+  ""change_of_control"": true
+}",True,alabama,alabama,True,120,120,True,True,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT,v1,lite,Texas,30,,ok,0.6,2250,37,9685,60982,5,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": null
+}",True,texas,texas,True,30,30,False,,False
+UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement,v1,lite,,,,ok,0.78,6317,34,27897,225094,12,"{
+  ""governing_law"": null,
+  ""notice_period_days"": null,
+  ""change_of_control"": null
+}",False,,delaware,False,,360,False,,False
+Apollo Endosurgery - Manufacturing and Supply Agreement,v1,lite,Texas,365,False,ok,0.75,1579,38,6687,48253,3,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 365,
+  ""change_of_control"": false
+}",True,texas,texas,True,365,365,True,False,False
+MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT,v1,lite,,180,True,ok,0.75,6126,37,26985,122054,10,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 180,
+  ""change_of_control"": true
+}",False,,new york,True,180,180,True,True,True
+TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement,v1,lite,England and Wales,60,True,ok,56.81,4944,39,22788,112361,9,"{
+  ""governing_law"": ""England and Wales"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}",False,england and wales,england united kingdom wales united kingdom,True,60,60,True,True,True
+VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT,v1,lite,New York,,False,ok,2.0,3174,36,13248,102006,5,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": null,
+  ""change_of_control"": false
+}",True,new york,new york,False,,360,True,False,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New,v1,lite,Texas,60,True,ok,0.72,2490,37,11971,61463,4,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}",True,texas,texas,True,60,60,True,True,True
+TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement,v1,lite,New York,180,False,ok,0.96,3644,39,17231,69973,5,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": false
+}",True,new york,new york,True,180,180,True,False,False
+EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement,v1,lite,Arizona,60,,ok,0.76,1592,37,6297,16459,3,"{
+  ""governing_law"": ""Arizona"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": null
+}",True,arizona,arizona,False,60,90,False,,False
+ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT,v1,lite,"Ontario, Canada",90,True,ok,0.68,2139,39,9956,44702,4,"{
+  ""governing_law"": ""Ontario, Canada"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": true
+}",True,ontario canada,ontario canada,True,90,90,True,True,True
+"VAPOTHERM, INC. - Manufacturing and Supply Agreement",v1,lite,New York,,True,ok,55.09,6042,36,26559,75632,8,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": null,
+  ""change_of_control"": true
+}",True,new york,new york,True,,,True,True,True
+AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT,v1,lite,New York,90,,ok,0.6,1915,38,9106,19351,4,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": null
+}",True,new york,new york,True,90,90,False,,False
+RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement,v1,lite,California,60,True,ok,3.27,1858,37,7265,43179,2,"{
+  ""governing_law"": ""California"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}",True,california,california,True,60,60,True,True,True
+VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT,v1,lite,New York,30,True,ok,0.71,1251,38,5220,15202,3,"{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": true
+}",True,new york,new york,True,30,30,False,True,False
+CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT,v1,lite,Republic of Kazakhstan,65,,ok,1.84,1445,39,6315,26830,3,"{
+  ""governing_law"": ""Republic of Kazakhstan"",
+  ""notice_period_days"": 65,
+  ""change_of_control"": null
+}",True,republic of kazakhstan,republic of kazakhstan,True,65,65,False,,False
+NATIONALPROCESSINGINC_07_18_1996-EX-10.4-SPONSORSHIP AGREEMENT,v1,lite,Kentucky,180,,ok,0.61,1624,38,8178,32860,3,"{
+  ""governing_law"": ""Kentucky"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": null
+}",True,kentucky,kentucky,True,180,180,False,,False
+AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT,v1,lite,Nevada,,,ok,53.86,629,36,2948,23999,1,"{
+  ""governing_law"": ""Nevada"",
+  ""notice_period_days"": null,
+  ""change_of_control"": null
+}",True,nevada,nevada,False,,120,False,,False
+"BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT",v1,lite,Delaware,365,False,ok,0.71,2458,39,11854,37876,5,"{
+  ""governing_law"": ""Delaware"",
+  ""notice_period_days"": 365,
+  ""change_of_control"": false
+}",True,delaware,delaware,True,365,360,True,False,False
+CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement,v1,lite,Nevada,30,,ok,1.61,2486,38,11023,33825,4,"{
+  ""governing_law"": ""Nevada"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": null
+}",True,nevada,nevada,True,30,30,False,,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement,v1,lite,Texas,30,,ok,1.95,1782,37,8272,52008,3,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": null
+}",True,texas,texas,True,30,30,False,,False
+"IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT",v1,lite,,180,True,ok,0.59,6282,37,29537,96662,10,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 180,
+  ""change_of_control"": true
+}",False,,new york,False,180,6,True,True,True
+TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT,v1,lite,Indiana,30,,ok,2.39,1226,37,5783,17786,3,"{
+  ""governing_law"": ""Indiana"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": null
+}",True,indiana,indiana,True,30,30,False,,False
+RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement,v1,lite,Texas,30,False,ok,53.16,3623,37,16605,100284,8,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}",True,texas,texas,True,30,30,True,False,False
+"Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT",v1,lite,Arizona,60,True,ok,0.71,2107,37,9412,47001,4,"{
+  ""governing_law"": ""Arizona"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}",True,arizona,arizona,True,60,60,True,True,True
+GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement,v1,lite,Ohio,180,True,ok,2.84,4507,38,20131,45234,6,"{
+  ""governing_law"": ""Ohio"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": true
+}",True,ohio,ohio,True,180,180,True,True,True
+"PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",v1,lite,,180,True,ok,2.53,6243,37,27976,145168,10,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 180,
+  ""change_of_control"": true
+}",False,,new york,True,180,180,True,True,True
+OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT,v1,lite,,180,True,ok,0.79,5482,37,27061,159336,9,"{
+  ""governing_law"": null,
+  ""notice_period_days"": 180,
+  ""change_of_control"": true
+}",False,,new york,False,180,90,True,True,True
+"FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",v1,lite,Texas,30,,ok,1.42,1715,37,7658,37829,3,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": null
+}",True,texas,texas,True,30,30,False,,False
+WaterNowInc_20191120_10-Q_EX-10.12_11900227_EX-10.12_Distributor Agreement,v1,lite,Texas,120,True,ok,51.8,3094,38,13823,48412,4,"{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 120,
+  ""change_of_control"": true
+}",True,texas,texas,True,120,120,True,True,True
+FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement,v1,lite,Ohio,,False,ok,7.87,1916,35,8012,32502,4,"{
+  ""governing_law"": ""Ohio"",
+  ""notice_period_days"": null,
+  ""change_of_control"": false
+}",True,ohio,ohio,False,,360,True,False,False
+PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement,v1,lite,Pennsylvania,30,False,ok,0.83,2514,37,10973,92875,5,"{
+  ""governing_law"": ""Pennsylvania"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}",True,pennsylvania,pennsylvania,True,30,30,True,False,False
+"SPIENERGYCO,LTD_03_09_2011-EX-99.5-OPERATIONS AND MAINTENANCE AGREEMENT",v1,lite,California,30,False,ok,0.68,2774,37,13072,54160,5,"{
+  ""governing_law"": ""California"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}",True,california,california,True,30,30,True,False,False

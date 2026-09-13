@@ -1,0 +1,6 @@
+doc_id,prompt_version,model,governing_law,notice_period_days,change_of_control,parse_status,latency_s,input_tokens,output_tokens,input_chars,orig_chars,n_windows,raw_response
+UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT,v1,gemini-flash,,,,api_error,270.59,,,,,,"HTTP 429: {
+  ""error"": {
+    ""code"": 429,
+    ""message"": ""You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 31.956341611s."",
+    ""status"": ""RESOURCE_EXHAUST"

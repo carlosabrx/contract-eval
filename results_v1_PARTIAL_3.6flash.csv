@@ -1,0 +1,157 @@
+doc_id,prompt_version,model,governing_law,notice_period_days,change_of_control,parse_status,latency_s,input_tokens,output_tokens,raw_response
+UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT,v1,gemini-flash,Delaware,180,False,ok,4.58,3744,44,"```json
+{
+  ""governing_law"": ""Delaware"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": false
+}
+```"
+XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement,v1,gemini-flash,New York,30,False,ok,5.54,11454,43,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}
+```"
+EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement,v1,gemini-flash,California,60,True,ok,4.88,14373,40,"```json
+{
+  ""governing_law"": ""California"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}"
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement,v1,gemini-flash,,60,False,ok,5.06,3930,40,"```json
+{
+  ""governing_law"": null,
+  ""notice_period_days"": 60,
+  ""change_of_control"": false
+}
+"
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement,v1,gemini-flash,New York,90,False,ok,5.63,10471,43,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": false
+}
+```"
+UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2,v1,gemini-flash,,,,parse_failure,5.94,6623,38,"```json
+{
+  ""governing_law"": null,
+  ""notice_period_days"": 30,
+  ""change_of_control"": true
+"
+HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement,v1,gemini-flash,,,,parse_failure,6.95,4948,39,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": false"
+VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement,v1,gemini-flash,Alabama,120,True,ok,3.28,9755,43,"```json
+{
+  ""governing_law"": ""Alabama"",
+  ""notice_period_days"": 120,
+  ""change_of_control"": true
+}
+```"
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT,v1,gemini-flash,Texas,30,False,ok,3.14,15005,42,"```json
+{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": false
+}
+```"
+UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement,v1,gemini-flash,,,,parse_failure,35.36,26013,35,"```json
+{
+  ""governing_law"": null,
+  ""notice_period_days"": null,
+  ""change_of_control"": null"
+Apollo Endosurgery - Manufacturing and Supply Agreement,v1,gemini-flash,,,,parse_failure,6.35,10216,38,"triggered by a change of control of the other party?
+Let's check Section 1.3 for ""Control"": defined for Affiliates definition.
+Is there any trigger/"
+MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT,v1,gemini-flash,New York,,False,truncated_input,5.22,24789,39,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": null,
+  ""change_of_control"": false
+}"
+TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement,v1,gemini-flash,,,,parse_failure,8.48,23862,37,"```json
+{
+  ""governing_law"": ""England and Wales"",
+  ""notice_period_days"": 60,
+  ""change_of_"
+VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT,v1,gemini-flash,New York,,False,ok,5.08,22009,40,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": null,
+  ""change_of_control"": false
+}
+"
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New,v1,gemini-flash,Texas,60,True,ok,4.15,12229,42,"```json
+{
+  ""governing_law"": ""Texas"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}
+```"
+TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement,v1,gemini-flash,,,,parse_failure,8.19,14925,40,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 180,
+  ""change_of_control"": false"
+EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement,v1,gemini-flash,,,,parse_failure,38.06,3930,37,"_of_control`:
+        *   Search contract text for ""change of control"", ""acquisition"", ""merger"", ""sale of all or substantially all"", ""reorganization""."
+ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT,v1,gemini-flash,"Ontario, Canada",90,True,ok,4.64,9096,43,"```json
+{
+  ""governing_law"": ""Ontario, Canada"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": true
+}
+```"
+"VAPOTHERM, INC. - Manufacturing and Supply Agreement",v1,gemini-flash,,,,parse_failure,6.96,16319,38,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": null,
+  ""change_of_control"": true
+"
+AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT,v1,gemini-flash,New York,90,False,ok,3.99,3944,43,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 90,
+  ""change_of_control"": false
+}
+```"
+RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement,v1,gemini-flash,California,60,True,ok,4.3,10912,41,"```json
+{
+  ""governing_law"": ""California"",
+  ""notice_period_days"": 60,
+  ""change_of_control"": true
+}
+```"
+VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT,v1,gemini-flash,,,,parse_failure,36.35,3250,39,"```json
+{
+  ""governing_law"": ""New York"",
+  ""notice_period_days"": 30,
+  ""change_of_control"": true"
+CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT,v1,gemini-flash,,,,api_error,180.56,,,"HTTP 429: {
+  ""error"": {
+    ""code"": 429,
+    ""message"": ""You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 1.583572953s."",
+    ""status"": ""RESOURCE_EXHAUSTE"
+NATIONALPROCESSINGINC_07_18_1996-EX-10.4-SPONSORSHIP AGREEMENT,v1,gemini-flash,,,,api_error,180.58,,,"HTTP 429: {
+  ""error"": {
+    ""code"": 429,
+    ""message"": ""You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 989.025173ms."",
+    ""status"": ""RESOURCE_EXHAUSTE"
+AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT,v1,gemini-flash,,,,api_error,180.57,,,"HTTP 429: {
+  ""error"": {
+    ""code"": 429,
+    ""message"": ""You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 406.139019ms."",
+    ""status"": ""RESOURCE_EXHAUSTE"
+"BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT",v1,gemini-flash,,,,parse_failure,35.54,7540,40,"```json
+{
+  ""governing_law"": ""Delaware"",
+  ""notice_period_days"": 365,
+  ""change_of_control"": false"
+CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement,v1,gemini-flash,,,,api_error,204.07,,,"HTTP 429: {
+  ""error"": {
+    ""code"": 429,
+    ""message"": ""You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\nPlease retry in 24.277863808s."",
+    ""status"": ""RESOURCE_EXHAUST"
